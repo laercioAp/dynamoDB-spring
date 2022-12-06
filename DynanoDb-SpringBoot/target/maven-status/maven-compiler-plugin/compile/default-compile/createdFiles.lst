@@ -1,0 +1,6 @@
+com\dailycodebuffer\controller\EmployeeController.class
+com\dailycodebuffer\entity\Department.class
+com\dailycodebuffer\repository\EmployeeRepository.class
+com\dailycodebuffer\config\DynamoDbConfiguration.class
+com\dailycodebuffer\DynanoDbSpringBootDemoApplication.class
+com\dailycodebuffer\entity\Employee.class
